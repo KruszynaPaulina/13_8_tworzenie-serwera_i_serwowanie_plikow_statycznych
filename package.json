@@ -1,0 +1,15 @@
+{
+  "name": "zadanie_13_8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server creation",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Paulina",
+  "license": "ISC"
+}
