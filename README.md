@@ -3,8 +3,8 @@
 Zadanie wykonane w ramamch bootcampu Kodilla - "JavaScript developer" - II część "Web Developer".
 
 Opis: 
-Zadanie ma na celu przećwiczenie w praktyce pracę z modułami w środowisku node.js. Efektem zadania jest serwer utworzony za pomoca modułu
-http, które serwuje pliki statyczna w zalęzności od zapytania klienta. 
+Zadanie ma na celu przećwiczenie w praktyce pracę z modułami w środowisku node.js. Efektem zadania jest serwer utworzony za pomocą modułu
+http, który serwuje pliki statyczne w zależności od zapytania klienta. 
 
 Rozwiązania, tchnologie i narzędzia:
 - Node.js
